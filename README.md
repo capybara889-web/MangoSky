@@ -40,3 +40,7 @@
 - Restore Anytime - Easy restoration to defaults
 
 # 🛠️ Requirements
+
+- OS: Windows 10/11
+- Python: 3.6+ (if running from source)
+- Dependencies: Listed in requirements.txt
